@@ -1,21 +1,21 @@
 module.exports = {
-    "name": "Code Stitch Web Designs",
-    "email": "help@codestitch.app",
-    "phoneForTel": "555-779-4407",
+    "name": "Placeholder",
+    "email": "placeholderwebsite.com", //Update this
+    "phoneForTel": "423-421-1568",
     "phoneFormatted": "(555) 779-4407",
     "address": {
         "lineOne": "First Address Line",
         "lineTwo": "Second Address Line",
-        "city": "Denver",
-        "state": "CO",
-        "zip": "80206",
+        "city": "Chattanooga",
+        "state": "TN",
+        "zip": "37341",
         "country": "US",
-        "mapLink": "https://goo.gl/maps/UAQn4vuGDiwv7DV39"
+        "mapLink": "https://g.co/kgs/k3v43uZ"
     },
     "socials": {
-        "facebook": "https://www.facebook.com/",
-        "instagram": "https://www.instagram.com/",
+        "facebook": "",
+        "instagram": "",
     },
     //! Make sure you include the file protocol (e.g. https://) and that NO TRAILING SLASH is included
-    "domain": "https://www.example.com"
+    "domain": "https://www.placeholderwebsite.com"
 };
